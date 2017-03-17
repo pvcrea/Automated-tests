@@ -1,7 +1,7 @@
 # Automated-tests
 
 Build node modules
-	$npm install
+	$ npm install
 
 Start your test
-	$npm run test:browser 
+	$ npm run test:browser 
